@@ -1,0 +1,29 @@
+[
+  {
+    "role": "PBI Front-End Dev",
+    "organisation": "Core Initiative",
+    "startDate": "Apr, 2024",
+    "endDate": "May, 2024",
+    "experiences": ["FrontEnd Specialization in financial technology.", "Deployment Unit"],
+    "imageSrc": "history/core.jpg"
+  },
+  {
+    "role": "MSIB Web Developer",
+    "organisation": "Educourse.id",
+    "startDate": "Feb, 2024",
+    "endDate": "June, 2024",
+    "experiences": ["Learning activity aims to develop skills and competencies as a Web Developer", "Implementing user interfaces and creating visually appealing web pages"],
+    "imageSrc": "history/educourse.jpg"
+  },
+  {
+    "role": "Intern Network Engineer",
+    "organisation": "Diskominfo",
+    "startDate": "Jan, 2022",
+    "endDate": "Feb, 2022",
+    "experiences": [
+      "maintenance on the office telephone network",
+      " Responsible for financial administrative record keeping and management."
+    ],
+    "imageSrc": "history/diskominfo.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "EDUCAMP",
+    "imageSrc": "projects/projects1.png",
+    "description": "My training project in the theme of a programmer bootcamp.",
+    "skills": ["HTML", "CSS", "Node"],
+    "demo": "https://edu-camps.vercel.app/index.html",
+    "": ""
+  },
+  {
+    "title": "Movie Landing Page",
+    "imageSrc": "projects/projects2.png",
+    "description": "The web that I made is based on the film streaming web DisneyPlus",
+    "skills": ["React", "Tailwindcss", "Node", "JavaScript"],
+    "demo": "https://disney-landing-page-fix.vercel.app/",
+    "": ""
+  }
+]
